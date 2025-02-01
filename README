@@ -1,0 +1,2 @@
+gfg.c is just finding primes
+main.c is using a linked list to store them and make the finding of primes faster as numbers can be defined as a multiple of primes, therefore we dont need to check if a number is divisible by all numbers below it but just the primes instead.
